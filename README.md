@@ -27,23 +27,3 @@ rails '6.1.4'
 
 - rails device で Facebook, Twitter, Google アカウントで実装<br>
   https://qiita.com/kazuooooo/items/47e7d426cbb33355590e<br>
-
-Things you may want to cover:
-
-- Ruby version
-
-- System dependencies
-
-- Configuration
-
-- Database creation
-
-- Database initialization
-
-- How to run the test suite
-
-- Services (job queues, cache servers, search engines, etc.)
-
-- Deployment instructions
-
-- ...
