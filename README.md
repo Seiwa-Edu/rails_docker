@@ -16,6 +16,11 @@ rails '6.1.4'
 
 - Docker コンテナ内で webpacker をインストールをした時のエラー解決記事<br>
   https://teratail.com/questions/286384<br>
+  
+- Docker gemの永続化<br>
+  https://qiita.com/sueno1019/items/4d9d870de1723a89190e<br>
+  
+ 
 
 機能実装編<br>
 
