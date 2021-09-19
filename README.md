@@ -20,12 +20,18 @@ rails '6.1.4'
 - Docker gemの永続化<br>
   https://qiita.com/sueno1019/items/4d9d870de1723a89190e<br>
   
+- Docker db:migrate<br>
+  https://qiita.com/royroy/items/901e4b0f91509baf7350<br>
+  
  
 
 機能実装編<br>
 
-- rails6.0 devide 導入
+- rails6.0 devise 導入
   https://qiita.com/cigalecigales/items/16ce0a9a7e79b9c3974e<br>
+  
+- raild devise 導入別記事<br>
+  https://qiita.com/niki_cat_0714/items/432fc60358036c0c2936<br>
 
 - Docker rails generate を実行<br>
   https://qiita.com/yokku21/items/a06347648d5dad5e587c<br>
