@@ -22,8 +22,6 @@ rails '6.1.4'
   
 - Docker db:migrate<br>
   https://qiita.com/royroy/items/901e4b0f91509baf7350<br>
-  
- 
 
 機能実装編<br>
 
@@ -38,3 +36,19 @@ rails '6.1.4'
 
 - rails device で Facebook, Twitter, Google アカウントで実装<br>
   https://qiita.com/kazuooooo/items/47e7d426cbb33355590e<br>
+  
+  
+DB/migration ファイル編<br>
+
+- migration ファイル、メソッドの基本文法<br>
+https://pikawaka.com/rails/migration<br>
+
+- indexを追加するメリット・デメリット<br>
+https://qiita.com/seiya1121/items/fb074d727c6f40a55f22<br>
+
+- reference の追加<br>
+https://qiita.com/krile136/items/0e824a6fb1d657bd3f97<br>
+
+
+
+
