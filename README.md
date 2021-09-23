@@ -49,6 +49,10 @@ https://qiita.com/seiya1121/items/fb074d727c6f40a55f22<br>
 - reference の追加<br>
 https://qiita.com/krile136/items/0e824a6fb1d657bd3f97<br>
 
+- DB カラム確認<br>
+User.column_names<br>
+https://qiita.com/littlekbt/items/48fa2b428147921db5a5<br>
+
 
 
 
