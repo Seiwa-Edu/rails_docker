@@ -46,6 +46,9 @@ https://pikawaka.com/rails/migration<br>
 - indexを追加するメリット・デメリット<br>
 https://qiita.com/seiya1121/items/fb074d727c6f40a55f22<br>
 
+- reference の生成と追加 わかりやすい<br>
+https://qiita.com/ryouzi/items/2682e7e8a86fd2b1ae47<br>
+
 - reference の追加<br>
 https://qiita.com/krile136/items/0e824a6fb1d657bd3f97<br>
 
